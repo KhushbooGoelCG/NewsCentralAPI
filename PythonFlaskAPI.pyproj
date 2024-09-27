@@ -39,6 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PythonFlaskAPI\" />
+    <Folder Include="PythonFlaskAPI\Voices\" />
     <Folder Include="PythonFlaskAPI\static\" />
     <Folder Include="PythonFlaskAPI\static\content\" />
     <Folder Include="PythonFlaskAPI\static\fonts\" />
