@@ -1,4 +1,2 @@
 D:\PythonFlaskAPI\PythonFlaskAPI\obj\Any CPU\Debug\PythonFlaskAPI.pyproj.SuggestedBindingRedirects.cache
 D:\PythonFlaskAPI\PythonFlaskAPI\obj\Any CPU\Debug\PythonFlaskAPI.pyproj.CoreCompileInputs.cache
-D:\NewsCentralAPI\obj\Any CPU\Debug\PythonFlaskAPI.pyproj.SuggestedBindingRedirects.cache
-D:\NewsCentralAPI\obj\Any CPU\Debug\PythonFlaskAPI.pyproj.CoreCompileInputs.cache
